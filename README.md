@@ -4,7 +4,7 @@ A responsive and visually appealing fruit shop landing page showcasing a variety
 
 ## 🌐 Live Preview
 
-👉 [Live Demo](https://your-live-site-link.com)
+👉 [Live Demo](https://fruit-shop-landing.vercel.app)
 
 ## 📋 Features
 
@@ -48,4 +48,4 @@ Have questions or feedback? Feel free to get in touch:
 - 📧 Email: [yuvaneshf23@gmail.com](mailto:yuvaneshf23@gmail.com)
 - 🌐 LinkedIn: [YuvaneshV](https://linkedin.com/in/yuvanesh-v-78730b32a)
 
-Or use the contact form on the [Live Demo](https://your-live-site-link.com).
+Or use the contact form on the [Live Demo](https://fruit-shop-landing.vercel.app).
